@@ -1,8 +1,8 @@
 name: Rusty Magnet
 
-title: Rusty Magnet's code
+title: Rusty Magnet's Github
 
-description: This repo is geared towards `introspection` of iOS and macOS software to better understand what happens to apps when they were open and running.
+description: Repo geared towards introspection of iOS and macOS apps.
 
 theme: jekyll-theme-minimal
 

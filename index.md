@@ -1,4 +1,9 @@
+---
+layout: default
+title: Rusty
+---
 ### My favourite repos
+
 Link | Description   
 --|---
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75) | This gist was my personal `Frida` cheatsheet and reminder list to find obvious errors in iOS apps.
@@ -7,7 +12,7 @@ Link | Description
 [Debugger Cheat Sheets](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger)  | I promised myself _"never write a `gdb` cheat-sheet"_. Promise broken.  Here was my attempt to cover well-trodden ground. More focus on `lldb` and `ghidra` lately.
 
 ### Other people liked ..
-People Starred these write-ups:
+People starred:
 
  - [iOS Challenge repo](https://github.com/rustymagnet3000/debugger_challenge) to learn about swizzling, debugging, bypassing anti-debug techniques, hooking and Frida.
 
