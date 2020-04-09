@@ -2,17 +2,25 @@
 layout: default
 title: Rusty
 ---
-### My favourite repos
+### Favourite repos
+Link | Description   
+--|---
+[Debugging iOS, Derek Selander](https://github.com/DerekSelander/LLDB) | Great set of scripts for `lldb` debugging.
+[Cryptography, Matthew Green](https://blog.cryptographyengineering.com/) | A master of simplifying difficult topics.
+[Objective-C, Mike Ash](https://mikeash.com/) | Deep, deep `Objective-C`.
+[Swift, Ole Begemann](https://oleb.net/) | Advanced `Swift`.
+
+### My own repos
 
 Link | Description   
 --|---
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75) | Useful commands when inspecting iOS apps. Include a lot of `Frida` commands.
-[Run-time Objective-C Introspection](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | At run-time, a `Method Swizzle` was great for inspecting `URLs, Labels, Cookies`, bypassing code or altering code flow.
-[Derive RSA Private Key](https://github.com/rustymagnet3000/rsa_objc_key_finder) | This macOS app derived a (short) RSA Private Key to reveal a secret. Work in progress.
+[Run-time Objective-C Introspection](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | `Method Swizzles` I used for inspecting `URLs, Labels, Cookies`, bypassing `delegates` or altering `code flow`.
+[Derive RSA Private Key](https://github.com/rustymagnet3000/rsa_objc_key_finder) | A macOS app that could decrypt `ciphertext` with only possession of the `RSA Public Key`.
 [Debugger Cheat Sheets](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger)  | I promised myself _"never write a `gdb` cheat-sheet"_. Promise broken. Also focused on `lldb` and `ghidra`.
 
 ### People starred
 
- - [iOS Challenge repo](https://github.com/rustymagnet3000/debugger_challenge) to learn about swizzling, debugging, bypassing anti-debug techniques, hooking and Frida.
+ - [iOS Challenge repo](https://github.com/rustymagnet3000/debugger_challenge) written for people who wanted to learn about swizzling, debugging, bypassing anti-debug techniques, hooking and Frida.
 
- - [WKWebView Cookie Thief](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger/tree/master/4a_wkwebview_cookie_thief) to steal Cookies at run-time from WKWebView, with a Debugger.
+ - [WKWebView Cookie Thief](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger/tree/master/4a_wkwebview_cookie_thief) to steal Cookies at run-time from WKWebView - from iOS - with a Debugger.
