@@ -2,8 +2,6 @@ name: Rusty Magnet
 
 title: Rusty Magnet's Github
 
-description: Code geared towards introspection of iOS and macOS apps.
-
 theme: jekyll-theme-minimal
 
 avatar: "/img/avatar-icon.png"
