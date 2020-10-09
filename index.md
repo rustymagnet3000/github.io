@@ -6,19 +6,20 @@ title: Rusty
 
 Link | Description   
 --|---
-[Debugging iOS, Derek Selander](https://github.com/DerekSelander/LLDB) | Great set of scripts for `lldb` debugging.
-[Cryptography, Matthew Green](https://blog.cryptographyengineering.com/) | A master of simplifying difficult topics.
-[Objective-C, Mike Ash](https://mikeash.com/) | `Objective-C`.
-[Swift, Ole Begemann](https://oleb.net/) | `Swift`.
-[Computing, Jessie Frazelle](https://blog.jessfraz.com/) | Lots of excellent computing articles.
+[Derek Selander](https://github.com/DerekSelander/LLDB) | Great book and scripts for macOS/iOS debugging.
+[Matthew Green](https://blog.cryptographyengineering.com/) | Simplifying difficult Cryptography topics.
+[Mike Ash](https://mikeash.com/) | `Objective-C` wizardry.
+[Ole Begemann](https://oleb.net/) | `Swift` wizardry.
+[Jessie Frazelle](https://blog.jessfraz.com/) | Writer of excellent computing articles.
 
 ### My own repos
 
 Link | Description   
 --|---
 [Run-time Objective-C Introspection](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | `Method Swizzles` used for inspecting `URLs, Labels, Cookies`, bypassing `delegates` or altering `code flow`.
-[Derive RSA Private Key](https://github.com/rustymagnet3000/rsa_objc_key_finder) | A macOS app that could decrypt `ciphertext` with only possession of the `RSA Public Key`.
-[Debugger Cheat Sheets](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger)  | I promised myself _"never write a `gdb` cheat-sheet"_. Promise broken. Also focused on `lldb` and `ghidra`.
+[Debugger scripts](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger/tree/master/15_python_lldb_scripts) |   `LLDB-Python` scripts to make debugging more fun and efficient. 
+[A poor man's RSA Key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | A macOS app that could decrypt `ciphertext` with only possession of the `RSA Public Key`.
+[Cheat Sheets](https://github.com/rustymagnet3000/reverse_engineer_ios_with_debugger)  | Focused on `lldb`. With a tiny bit of `gdb` and `ghidra`.
 
 ### People starred
 
