@@ -1,10 +1,6 @@
 # General Settings
 title: Rusty Magnet
 email: rustymagnet3000@gmail.com
-description: >-
-  Computer Scientist<br /><br />
-  xOS Application Security enthusiast<br /><br />
-  xOS Reverse Engineer<br /><br />
 baseurl: ""
 url: ""
 github_username: rustymagnet3000
